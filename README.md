@@ -7,9 +7,9 @@ CheaterPress (LetterPress Cheat) is dedicated to the new word game [LetterPress]
 Usage:
 ------
 Simply:
-
+```
 $ python cheaterpress.py [Letters]
 $ python cheaterpress.py pdgbplqimoedgennkputonccu
-
+```
 
 The project is just for practice and fun !
